@@ -4,9 +4,9 @@ I'm Lucas, a Robotic Systems student with a passion for bringing ideas to life t
 
 Take a look below to get a glimpse of my coding journey, and feel free to connect or reach out!
 
-🔭 I’m currently working on my Chess Analytics application to help me regain a 2000+ Rapid Chess.com rating
+🔭 I’m currently working on my first Mobile App
 
-🌱 I’m currently learning Machine Learning and Big Data in my student worker role
+🌱 I’m currently learning React Native for Mobile App development
 
 🤔 I’m looking for any sparring or career advice on my journey to become a Software Engineer
 
