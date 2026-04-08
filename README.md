@@ -1,7 +1,5 @@
 ### Hello World! 👋
 
-I'm Lucas, a Robotic Systems student with a passion for bringing ideas to life through code. I’m especially interested in software engineering and AI, and I love turning my hobbies into playful learning experiences through my coding projects. When I’m not at my desk, you’ll probably find me deep in a chess match or expanding my LEGO collection.
-
 Take a look below to get a glimpse of my coding journey, and feel free to connect or reach out!
 
 🔭 I’m currently working on my first Mobile App
